@@ -5,7 +5,8 @@
  * @first: A pointer to the first node.
  * @second: A pointer to the second node.
  *
- * Return: If no common ancestor is found, return NULL; otherwise, return the common ancestor.
+ * Return: If no common ancestor is found, return NULL; otherwise,
+ * return the common ancestor.
  */
 
 binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
